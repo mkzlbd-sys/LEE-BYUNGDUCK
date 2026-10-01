@@ -19,3 +19,6 @@
 - 별 개수에 따라 새 구역 열기
 - 귀여운 동물 친구(NPC) 따라오기
 - 점수 저장(DataStore)
+
+## Rojo 없이 쓰기
+`paste/AllInOne.luau` 전체를 복사해서, 스튜디오 `ServerScriptService` 안의 Script 1개에 붙여 넣고 Play 하면 됩니다.
